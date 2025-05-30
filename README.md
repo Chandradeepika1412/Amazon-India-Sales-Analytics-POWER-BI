@@ -31,12 +31,12 @@ To visualize and analyze Amazon India’s sales data to help stakeholders identi
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Screenshot](https://github.com/Chandradeepika1412/Power-BI-Dashboard-Amazon-India-Sales-Analysis/blob/main/Amazon%20sales%20in%20India.pdf)
+![Dashboard Screenshot](https://github.com/Chandradeepika1412/Amazon-India-Sales-Analytics-POWER-BI/blob/main/Amazon%20sales%20in%20India.pdf)
 
 ## 📹 Video Preview
 
 Watch the project demo video here:  
-[Amazon India Sales Analytics Demo Video](https://github.com/Chandradeepika1412/Power-BI-Dashboard-Amazon-India-Sales-Analysis/raw/main/demo_video.mp4)
+[Amazon India Sales Analytics Demo Video](https://github.com/Chandradeepika1412/Amazon-India-Sales-Analytics-POWER-BI/blob/main/Recording%202025-05-30%20101234%20(1).gif)
 
 ## 📁 Files in this Repository
 
